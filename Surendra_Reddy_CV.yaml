@@ -1,0 +1,409 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.6/schema.json
+cv:
+  name: Surendra Reddy
+  headline: Cloud/DevOps Architect | Data Architect | AWS & Azure Expert | AI-Enhanced Solutions  
+  location: Bangalore, India
+  email: surendraelectronics@gmail.com
+  phone: +91-9916429983
+  website: https://learnups2020.wordpress.com/
+  social_networks:
+    - network: LinkedIn
+      username: https://www.linkedin.com/in/surendra-reddy-55208948/
+    - network: GitHub
+      username: https://github.com/SurendraRedd
+  sections:
+    objective:
+      - 1) **Cloud/DevOps Architect and Data Architect** with **18+ years** of expertise in **AWS, Azure, and multi-cloud** ecosystems, leveraging generative AI tools (**GitHub Copilot, Microsoft Copilot for Azure, Grok, ChatGPT, Claude**) to accelerate solution design, code generation, and architectural decision-making. Seeking a strategic role to design and implement scalable, secure, cost-optimized, AI-enhanced cloud and data solutions.
+      - 2) Proven track record in end-to-end cloud migrations, Infrastructure as Code (**Terraform, CloudFormation, Pulumi, ARM, Bicep**), DevOps automation (**CI/CD with GitHub Actions, GitLab, Azure DevOps**), and container orchestration (**Kubernetes on EKS, AKS, OpenShift**). Expert in architecting modern data platforms using **Databricks, EMR, Glue, Kafka, and Kinesis** for real-time and batch processing, leveraging AI assistants for rapid prototyping, debugging, and performance tuning.
+      - 3) Skilled at leading cross-functional teams, driving observability (**Prometheus, Grafana, ELK**), and delivering cloud-native, data-driven architectures aligned with business goals. **5+ years** as Azure Data Engineer designing scalable data pipelines using **Azure Data Factory (ADF)** and **Synapse Analytics**, proficient in **ETL/ELT** processes, multi-source data ingestion, data modeling, and seamless integration of on-premises and cloud systems for advanced analytics.
+    profile summary:
+      - 1) **18+ years** of experience in Cloud Architecture, DevOps, and Data Engineering across Healthcare, Finance, E-commerce, and Technology industries.
+      - 2) Expert in **AWS and Azure** cloud platforms with strong focus on Infrastructure as Code (**IaC**) using **Terraform, CloudFormation, Pulumi, ARM, and Bicep**.
+      - 3) Proficient in **DevOps practices** and **CI/CD** pipeline development using **GitHub Actions, GitLab CI, and Azure DevOps**.
+      - 4) Skilled in containerization and orchestration with **Docker and Kubernetes** (**EKS, AKS, OpenShift**).
+      - 5) Extensive experience designing and implementing modern data platforms using **Databricks, EMR, Glue, Kafka, and Kinesis** for real-time and batch data processing.
+      - 6) Expert in monitoring and observability tools- **Prometheus, Grafana, and ELK stack**.
+      - 7) Proven leader of cross-functional teams managing complex cloud migration projects.
+      - 8) Leverages generative AI tools (**GitHub Copilot, Microsoft Copilot for Azure, Grok, ChatGPT, Claude**) to enhance solution design, code generation, pipeline optimization, and architectural decision-making.
+    education:
+      - institution: JNTU University
+        area: Electronics and Communication Engineering
+        degree: B.Tech
+        grade:
+        date:
+        start_date: 2002-05
+        end_date: 2006-05
+        location: Nellore, India      
+    experience:
+      - company: Koerber Pharma
+        position: Cloud/DevOps Architect
+        date:
+        start_date: 2022-11
+        end_date: present
+        location: Bangalore, India
+        summary:
+        highlights:
+          - Designed and deployed **PAS-X MES application** on **AWS, Azure, OpenShift, and OpenStack** using hub-spoke architecture and landing zones.
+          - Prepared Azure architecture blueprints and documentation for cloud services (compute, storage, networking, databases, identity, security).
+          - Provisioned infrastructure using **Pulumi and Terraform** for **Kubernetes (AKS/EKS)**, NGINX ingress, Cert-Manager, and observability stacks (Prometheus, Grafana, ELK).
+          - Automated deployments via **Azure Pipelines and GitHub Actions**, reducing deployment time by **40%**.
+          - Implemented auto-scaling policies and Automation Runbooks, reducing cloud costs by **25%**.
+          - Built data pipelines on **Azure/AWS Databricks** integrated with **S3, Redshift, and Power BI** for business intelligence.
+          - Enforced **Azure Security Center and AWS Guard Duty** for threat detection, WAF, and private endpoints.
+          - Integrated **Kafka-based messaging** for high-throughput, fault-tolerant, real-time event processing.
+          - Implemented **Prometheus and Grafana** for infrastructure and application monitoring with real-time alerting and dashboarding.
+          - Deployed and managed **MongoDB databases** for highly available, distributed, scalable data storage.
+          - Led team of cloud architects, engineers, support, and testing teams, providing strategic direction, task delegation, and mentorship.
+          - Developed training programs and best practice guides to upskill engineers in DevOps tooling, monitoring, and cloud-native architectures.
+          - Designed data pipelines in **Azure Data Factory** to ETL data from on-prem SQL Server and APIs into Azure Data Lake.
+          - Implemented ADF data flow transformations for data cleansing, mapping, and aggregation.
+          - Integrated ADF with **Azure Synapse Analytics** for data analytics and Power BI reporting.
+          - Automated pipeline triggers using Event-based and Schedule triggers.
+          - Built parameterized pipelines and reusable templates to optimize development time.
+          - Implemented logging and monitoring using **Azure Monitor and Log Analytics**.
+          - Collaborated with DevOps team to implement CI/CD pipelines for ADF using Azure DevOps.
+          - Reduced manual ETL effort by **30%** and improved data refresh performance by **25%**.
+      - company: Tech Mahindra
+        position: Cloud/DevOps Architect
+        date:
+        start_date: 2022-09
+        end_date: 2022-10
+        location: Bangalore, India
+        summary:
+        highlights:
+          - Led migration of **200+ workloads** from **AWS to Azure** using **Terraform and Azure Migrate** with zero downtime.
+          - Designed and implemented scalable, reliable systems, automated operational tasks using **IaaC and CI/CD tools**, monitored performance with observability platforms, led incident response and post-mortems.
+          - Prepared Azure architecture blueprints and documentation for cloud services (compute, storage, networking, databases, identity, security).
+          - Developed cloud adoption and migration strategies (lift-and-shift, re-platforming).
+          - Created **SLA, SLO, and SRE Matrix Index** for applications.
+          - Defined **Reliability Index** criteria (availability, performance, resilience, consistency) and **Observability Index** criteria (metrics, logs, traces, dashboards).
+          - Designed **CI/CD pipelines** in **Azure DevOps** for **AKS deployments** and Terraform state management.
+          - Implemented **Ansible** for configuration management of Linux/Windows nodes.
+          - Managed **AKS clusters** using Lens/Kubectl with Terraform automation for cluster provisioning.
+          - Developed **Azure Data Factory pipelines** for data ingestion into **Databricks and Synapse**.
+          - Architected applications in **Microsoft Azure** using **hub-and-spoke architecture**.
+          - Designed and implemented data pipelines and big data processing solutions on **AWS Databricks** for large-scale data analytics.
+          - Developed **IaC using Terraform** to automate deployment of Databricks clusters, VPCs, security groups, and AWS infrastructure.
+          - Created scalable, resilient, secure cloud solutions aligned with best practices and **Well-Architected Framework**.
+          - Designed cloud infrastructure architecture **(IaaS, PaaS, SaaS)** and managed end-to-end implementation using **IaaC (CloudFormation, ARM, Terraform)**.
+          - Delivered cloud projects achieving cost savings and performance improvements through migrations and infrastructure optimizations.      
+    skills:
+      - label: Cloud Platforms
+        details: AWS, Azure, OpenStack, GCP
+      - label: Infrastructure as Code
+        details: Terraform, CloudFormation, Pulumi, ARM Templates, Bicep
+      - label: Container Orchestration
+        details: Kubernetes (AKS, EKS, OpenShift), Docker, ECS, Fargate
+      - label: CI/CD & DevOps
+        details: GitHub Actions, Azure DevOps, GitLab CI, Jenkins, Bitbucket Pipelines, Apache Airflow
+      - label: Cloud Networking & Security
+        details: VPC, VNet, Transit Gateway, Route53, Security Groups, IAM, Azure AD, Azure Security Centre, AWS GuardDuty, WAF, Private Endpoints
+      - label: Data Platforms & Analytics
+        details: Databricks, Azure Data Factory, Synapse Analytics, AWS Glue, EMR, Kinesis, Snowflake, ADLS Gen2, Redshift, S3, Power BI, Tableau
+      - label: Databases
+        details: PostgreSQL, SQL Server, Oracle, MongoDB, SQLite
+      - label: Monitoring & Observability
+        details: Prometheus, Grafana, ELK Stack, DataDog, Splunk, Azure Monitor, CloudWatch
+      - label: Programming & Scripting
+        details: Python, Shell, PowerShell, Go, Java
+      - label: Generative AI Tools
+        details: GitHub Copilot, Microsoft Copilot, ChatGPT, Claude, Grok, Amazon Q
+      - label: Testing & Quality
+        details: Pytest, Selenium, JMeter, Locust, Robot Framework, REST API Testing, Playwright
+      - label: Version Control & Collaboration
+        details: Git, GitHub, GitLab, Bitbucket, Azure Repos, JIRA
+    projects:
+      - name: Koerber Pharma Pvt Ltd
+        date:
+        start_date:
+        end_date: 
+        location: 
+        summary: PAS-X MES Application Deployment in Multi-Cloud Environments
+        highlights:
+          - Designed **multi-cloud SaaS architecture** (Azure/AWS/OpenStack) using **hub-and-spoke network models, Azure landing zones, and AWS multi-account architectures** for PAS-X MES v3.3.3-3.4.0.
+          - Provisioned infrastructure using **Pulumi/Terraform** for **Kubernetes (AKS/EKS/MicroK8s)**, NGINX ingress, Cert-Manager, OAuth2 Proxy, and observability stacks.
+          - Implemented **end-to-end CI/CD** using **Azure Pipelines and GitHub Actions**, automating deployments and reducing release time.
+          - Deployed **observability stack** (**Prometheus, Grafana, ELK, Fluent Bit**) for infrastructure and application monitoring.
+          - Managed MES system **upgrades (3.3.4→3.3.5→3.4.0)**, installations, and patches across cloud environments.
+          - Configured **MBR/EBR workflows**, printer services, **ERP integrations**, and Scale Simulator setups for customer environments.
+          - Built **test automation framework** using **Robot Framework, Playwright, Selenium, Sikuli**, integrated into CI/CD pipelines.
+          - Automated **REST API testing** using **Postman, Newman, Bruno** with CI/CD integration.
+          - Designed **Azure Data Factory pipelines** for ETL from on-prem SQL Server/APIs into **Azure Data Lake and Synapse Analytics**.
+          - Integrated ADF with **Power BI** for reporting, using event-based/scheduled triggers and parameterized templates.
+          - Achieved **30% reduction in manual ETL effort** and **25% improvement in data refresh performance** through optimized ADF pipelines.
+          - Implemented cost optimization through **Azure Automation runbooks** for resource scheduling.
+          - Leveraged **GitHub Copilot and Microsoft Copilot** to accelerate **IaC development**, reducing provisioning time by **30-40%**.
+          - Utilized **generative AI tools (ChatGPT/Grok/Claude)** for debugging **Kubernetes manifests, CI/CD pipelines, and Databricks notebooks**.
+          - Mentored team on adopting **AI-assisted development** for code reviews, architecture design, and automated documentation.
+      - name: Tech Mahindra
+        date:
+        start_date:
+        end_date:
+        location:
+        summary: AWS to Azure Migration & Azure Cloud Enablement Project
+        highlights:
+          - Led **AWS to Azure migration** of 200+ workloads using **Azure Migrate Service**, ensuring zero downtime and adherence to **Azure landing zone** architecture.
+          - Generated **Azure Resource Inventory** (subscriptions, management groups, resource groups) using **PowerShell and Azure CLI** for governance and compliance.
+          - Conducted **cloud assessment reviews** and created **landing zones** in Azure for standardized resource deployment.
+          - Provisioned Azure resources (**VMs, AKS, Load Balancers, VNets**) using **Azure Portal, Azure CLI, and Terraform** for IaC automation.
+          - Managed **AKS clusters** using **Lens and kubectl**, implementing monitoring and maintenance strategies.
+          - Developed **Azure Policy as Code** using **GitHub Actions and Terraform**, enforcing compliance across subscriptions.
+          - Created **Azure Workbooks and Azure Monitor dashboards** for infrastructure management and performance monitoring using **KQL (Kusto Query Language)**.
+          - Implemented **Application Insights** for Python and .NET applications using SDK integration for telemetry and diagnostics.
+          - Developed **test automation frameworks** using **Pytest, Robot Framework, Selenium, Playwright, and Sikuli**, integrated into CI/CD pipelines.
+          - Built **CI/CD pipelines** using **Azure DevOps** and **Jenkins**, automating build, test, and deployment processes.
+          - Configured **Azure Data Factory and Databricks** for data integration and analytics workloads, troubleshooting performance issues.
+          - Architected and deployed **AWS resources (EC2, VPC, S3)** using **Terraform and CloudFormation** before migration.
+          - Managed **Terraform Cloud workspace** for centralized state file management and collaboration.
+          - Conducted **REST API testing** using **Postman and Application Insights REST API** for validation.
+          - Facilitated **client meetings** and **KPI reporting**, providing knowledge transfer to new team members.
+          - Mentored team on **GitHub Copilot and Microsoft Copilot** for accelerated code reviews and Azure architecture design.
+          - Utilized **LLMs (ChatGPT, Grok, Copilot)** for solution architecture brainstorming, cost optimization runbooks, and automated documentation.
+      - name: Mercedes Benz
+        date:
+        start_date:
+        end_date:
+        location:
+        summary: ADAS Park Assist & ADAS Tools Development
+        highlights:
+          - Served as **Product Owner** for ADAS Park Assist tools, aligning with **ISO 26262** (Parts 3-8) functional safety standards.
+          - Developed **REST API application (IDC SIM Service Tool)** using **Flask-RESTPlus, Swagger** for API documentation and **Docker** deployment on Linux.
+          - Built **Streamlit web applications** for Parken automation tools and deployed to **Azure** using **CI/CD pipelines (Jenkins)**.
+          - Created **test automation frameworks** using **Robot Framework, Playwright, Selenium, Sikuli**, integrated into CI/CD pipelines.
+          - Performed **performance testing** using **Locust** for Python web applications with distributed execution and GUI/CLI modes.
+          - Led **Functional Safety management** activities including **HARA, FMEA, FTA, DFMEA** creation, FSR/TSR identification, and FSC/TSC development.
+          - Developed **DOORS DXL Extensions** for automation, requirements gathering, and **DOORS-to-JIRA integration** using Agosense BPL scripting.
+          - Built **Python automation tools** for diagnostic log parsing, SAR test automation, FMVSS automation, and EOL test automation using **JSON, Gooey, OpenPyXL**.
+          - Developed **video parser tool** using **OpenCV and Gooey** for test analysis.
+          - Deployed **Jenkins on AWS EC2** and created **scripted/distributed CI/CD pipelines** with **Artifactory, Git, Ansible, ELK, Docker, S3, CodeBuild, CodeDeploy, CodePipeline, SonarQube**.
+          - Managed **AWS services** (EC2, S3, CloudWatch) and **Kubernetes** for microservices deployments.
+          - Implemented **monitoring solutions** using **Prometheus, Grafana, ELK, DataDog, Splunk** for application and infrastructure observability.
+          - Configured **Infrastructure as Code** using **Terraform** for AWS CodeBuild, CodeDeploy, and CodePipeline automation.
+          - Managed **branching, merging, tagging** strategies in **Git, GitHub, GitLab, SVN** with extensive CI/CD experience across multiple platforms.
+          - Led development team, provided training on **IBM Rational DOORS and DXL scripting**, and defined QA/configuration management processes.
+      - name: Honeywell Technologies
+        date:
+        start_date:
+        end_date:
+        location:
+        summary: Condition Based Maintenance for Embraer E2 & Boeing Programs
+        highlights:
+          - Led **test automation** for Embraer E2 OMS software (MIS-RT, ATE ASCB, ATE CMCF, Wireless RT, DLMU-W) in target and simulated environments.
+          - Developed **test design automation tool** to convert manual test cases to automated tests for ATE ASCB and ATE CMCF modules.
+          - Created **scenario-to-test script generation tools** for MIS-RT, Wireless RT, and DLMU-W systems using Python.
+          - Developed **DXL scripts** for DOORS automation (requirements extraction, object history tracking, module data export to Excel).
+          - Automated **build deployment process** using batch scripts for bench environment configurations.
+          - Performed **requirements-based and structural coverage testing** for Boeing 747-8 ATN and Boeing 787 FMS applications (**Level B software**).
+          - Generated **structural coverage reports** and conducted SCR fixes identified during testing phases.
+          - Participated in **SOI-3 audit** for Boeing 747-8 Data Link ATS Core program.
+          - Built **test automation frameworks** using **Robot Framework, Playwright, Selenium, Sikuli**, integrated into CI/CD pipelines.
+          - Acted as **module focal** for MIS RT, MIS Core, ATE ASCB, ATE CMCF, Wireless RT, DLMU-W, mentoring new team members.
+      - name: Silver Atena
+        date:
+        start_date:
+        end_date:
+        location:
+        summary: Avionics Systems Development (TaxiBot, RSE, DAC LUC, PDU)
+        highlights:
+          - Developed **test cases, procedures, and scripts** using **RTRT Tool** for TaxiBot Localization Module per high-level software requirements.
+          - Performed **requirements-based testing** for **RSE-10 software** (**Level B**) in **Microsoft Visual C# 2010** environment, fixing code SCRs.
+          - Developed **manual test cases and REST API test scripts** (PUT, POST, GET, DELETE) for **DAC LUC** (Direct Accumulation Count Life Usage Calculator).
+          - Fixed **database issues** related to **Oracle and SQL Server 2005** for DAC LUC applications.
+          - Developed **Low-Level Design Requirements** for **PDU (Power Distribution Unit)** Application, Boot, and STR Library.
+          - Performed **Design Verification Engineer** role, reviewing system-level, high-level, and low-level requirements.
+          - Managed **requirements porting to DOORS** and developed **DXL scripts** for automation and traceability.
+    certifications:
+      - bullet: Microsoft Azure Fundamentals (AZ-900)
+      - bullet: Six Sigma Green Belt
+      - bullet: SAFe and SAFe 5.0 DevOps
+      - bullet: AWS Certified Cloud Practitioner
+      - bullet: ITIL Foundation
+      - bullet: ISO 26262 Functional Safety
+      - bullet: ISTQB Certified Tester
+    awards:
+      - bullet: Silver Award, Spot Award, Gold Award, Outstanding Engineer, X-stream Award
+      - bullet: Team Excellence, Bronze Award, Spotlight Award, Partner Awards
+      - bullet: ABCD (Above and Beyond Call of Duty) Award
+      - bullet: Shop Floor Recognitions    
+  sort_entries: none
+design:
+  theme: classic
+  # page:
+  #   size: us-letter
+  #   top_margin: 0.7in
+  #   bottom_margin: 0.7in
+  #   left_margin: 0.7in
+  #   right_margin: 0.7in
+  #   show_footer: true
+  #   show_top_note: true
+  # colors:
+  #   body: rgb(0, 0, 0)
+  #   name: rgb(0, 79, 144)
+  #   headline: rgb(0, 79, 144)
+  #   connections: rgb(0, 79, 144)
+  #   section_titles: rgb(0, 79, 144)
+  #   links: rgb(0, 79, 144)
+  #   footer: rgb(128, 128, 128)
+  #   top_note: rgb(128, 128, 128)
+  # typography:
+  #   line_spacing: 0.6em
+  #   alignment: justified
+  #   date_and_location_column_alignment: right
+  #   font_family:
+  #     body: Source Sans 3
+  #     name: Source Sans 3
+  #     headline: Source Sans 3
+  #     connections: Source Sans 3
+  #     section_titles: Source Sans 3
+  #   font_size:
+  #     body: 10pt
+  #     name: 30pt
+  #     headline: 10pt
+  #     connections: 10pt
+  #     section_titles: 1.4em
+  #   small_caps:
+  #     name: false
+  #     headline: false
+  #     connections: false
+  #     section_titles: false
+  #   bold:
+  #     name: true
+  #     headline: false
+  #     connections: false
+  #     section_titles: true
+  # links:
+  #   underline: false
+  #   show_external_link_icon: false
+  # header:
+  #   alignment: center
+  #   photo_width: 3.5cm
+  #   photo_position: left
+  #   photo_space_left: 0.4cm
+  #   photo_space_right: 0.4cm
+  #   space_below_name: 0.7cm
+  #   space_below_headline: 0.7cm
+  #   space_below_connections: 0.7cm
+  #   connections:
+  #     phone_number_format: national
+  #     hyperlink: true
+  #     show_icons: true
+  #     display_urls_instead_of_usernames: false
+  #     separator: ''
+  #     space_between_connections: 0.5cm
+  # section_titles:
+  #   type: with_partial_line
+  #   line_thickness: 0.5pt
+  #   space_above: 0.5cm
+  #   space_below: 0.3cm
+  # sections:
+  #   allow_page_break: true
+  #   space_between_regular_entries: 1.2em
+  #   space_between_text_based_entries: 0.3em
+  #   show_time_spans_in:
+  #     - experience
+  # entries:
+  #   date_and_location_width: 4.15cm
+  #   side_space: 0.2cm
+  #   space_between_columns: 0.1cm
+  #   allow_page_break: false
+  #   short_second_row: true
+  #   summary:
+  #     space_above: 0cm
+  #     space_left: 0cm
+  #   highlights:
+  #     bullet: •
+  #     nested_bullet: •
+  #     space_left: 0.15cm
+  #     space_above: 0cm
+  #     space_between_items: 0cm
+  #     space_between_bullet_and_text: 0.5em
+  # templates:
+  #   footer: '*NAME -- PAGE_NUMBER/TOTAL_PAGES*'
+  #   top_note: '*LAST_UPDATED CURRENT_DATE*'
+  #   single_date: MONTH_ABBREVIATION YEAR
+  #   date_range: START_DATE – END_DATE
+  #   time_span: HOW_MANY_YEARS YEARS HOW_MANY_MONTHS MONTHS
+  #   one_line_entry:
+  #     main_column: '**LABEL:** DETAILS'
+  #   education_entry:
+  #     main_column: |-
+  #       **INSTITUTION**, AREA
+  #       SUMMARY
+  #       HIGHLIGHTS
+  #     degree_column: '**DEGREE**'
+  #     date_and_location_column: |-
+  #       LOCATION
+  #       DATE
+  #   normal_entry:
+  #     main_column: |-
+  #       **NAME**
+  #       SUMMARY
+  #       HIGHLIGHTS
+  #     date_and_location_column: |-
+  #       LOCATION
+  #       DATE
+  #   experience_entry:
+  #     main_column: |-
+  #       **COMPANY**, POSITION
+  #       SUMMARY
+  #       HIGHLIGHTS
+  #     date_and_location_column: |-
+  #       LOCATION
+  #       DATE
+  #   publication_entry:
+  #     main_column: |-
+  #       **TITLE**
+  #       SUMMARY
+  #       AUTHORS
+  #       URL (JOURNAL)
+  #     date_and_location_column: DATE
+locale:
+  language: english
+  # last_updated: Last updated in
+  # month: month
+  # months: months
+  # year: year
+  # years: years
+  # present: present
+  # month_abbreviations:
+  #   - Jan
+  #   - Feb
+  #   - Mar
+  #   - Apr
+  #   - May
+  #   - June
+  #   - July
+  #   - Aug
+  #   - Sept
+  #   - Oct
+  #   - Nov
+  #   - Dec
+  # month_names:
+  #   - January
+  #   - February
+  #   - March
+  #   - April
+  #   - May
+  #   - June
+  #   - July
+  #   - August
+  #   - September
+  #   - October
+  #   - November
+  #   - December
+settings:
+  current_date: '2025-12-29'
+  render_command:
+    design:
+    locale:
+    typst_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.typ
+    pdf_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.pdf
+    markdown_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.md
+    html_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.html
+    png_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.png
+    dont_generate_markdown: false
+    dont_generate_html: false
+    dont_generate_typst: false
+    dont_generate_pdf: false
+    dont_generate_png: false
+  bold_keywords: []
